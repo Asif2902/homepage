@@ -5,7 +5,9 @@ body {
     background-size: cover;
     font-family: Arial, sans-serif;
 }
-
+body {
+      color: black;
+}
 .container {
     max-width: 800px;
     margin: 50px auto;
